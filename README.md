@@ -36,7 +36,7 @@ The app is intended to demonstrate an end-to-end Retrieval-Augmented Generation 
 - Document ingestion and indexing
 - Vector store for semantic search (Qdrant)
 
-## NyaySaathi — Open Source Legal Assistant
+## NyaySaathi - Open Source Legal Assistant
 
 This repository is published as an open-source project to help developers and legal-technology enthusiasts build and extend a Retrieval-Augmented Generation (RAG) system tailored for Indian legal content. It includes a React frontend and a FastAPI backend with pluggable vector storage and LLM adapters.
 
