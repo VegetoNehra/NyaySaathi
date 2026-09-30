@@ -26,8 +26,8 @@ const Nav = () => {
               alt="NyaySaathi Logo"
               className="w-6 h-6"
             />
-            <span className="text-xl font-semibold text-[#0B304A] hidden md:inline">
-              NyaySaathi
+            <span className="text-xl font-bold text-[#0B304A] hidden md:inline">
+              Veritas
             </span>
           </Link>
         </div>
